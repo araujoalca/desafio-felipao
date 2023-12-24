@@ -1,4 +1,4 @@
-# DIO: Desafio #1
+# DIO: Desafio 1️⃣
 ## Curso de Git/GitHub
 
 ### Desafio Classificador de nível de Herói
